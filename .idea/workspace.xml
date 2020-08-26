@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c351293f-42a7-4379-82d2-33e51abcdc59" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1gOI1nWQUKeI3xDM2LdZycVunYZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.convertor">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="video2ascii" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="convertor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="video2ascii" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/convertor.py" />
+      <option name="PARAMETERS" value="-i $PROJECT_DIR$/../../../1.mp4" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Unnamed" />
+      <item itemvalue="Python.convertor" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.convertor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c351293f-42a7-4379-82d2-33e51abcdc59" name="Default Changelist" comment="" />
+      <created>1597979000417</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597979000417</updated>
+      <workItem from="1597979009434" duration="3838000" />
+      <workItem from="1598096584786" duration="12858000" />
+      <workItem from="1598249135800" duration="940000" />
+      <workItem from="1598342413347" duration="10000" />
+      <workItem from="1598343773458" duration="4209000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="104" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598346798081">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state x="104" y="62" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.800@0.0.1280.800" timestamp="1598169401641" />
+    <state x="104" y="59" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.712@0.23.1280.712" timestamp="1598346798081" />
+    <state x="427" y="112" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1598106466741">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="427" y="112" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.800@0.0.1280.800" timestamp="1598106466741" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom" timestamp="1598422674091">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state width="1238" height="219" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1598184043067" />
+    <state width="1238" height="181" key="GridCell.Tab.0.bottom/0.23.1280.712@0.23.1280.712" timestamp="1598422674091" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center" timestamp="1598422674089">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state width="1238" height="219" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1598184043065" />
+    <state width="1238" height="181" key="GridCell.Tab.0.center/0.23.1280.712@0.23.1280.712" timestamp="1598422674089" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left" timestamp="1598422674089">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state width="1238" height="219" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1598184043064" />
+    <state width="1238" height="181" key="GridCell.Tab.0.left/0.23.1280.712@0.23.1280.712" timestamp="1598422674089" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right" timestamp="1598422674090">
+      <screen x="0" y="23" width="1280" height="712" />
+    </state>
+    <state width="1238" height="219" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1598184043066" />
+    <state width="1238" height="181" key="GridCell.Tab.0.right/0.23.1280.712@0.23.1280.712" timestamp="1598422674090" />
+    <state x="141" y="23" key="SettingsEditor" timestamp="1597982882708">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="141" y="23" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1597982882708" />
+    <state x="317" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1598342418304">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="317" y="211" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1598342418304" />
+    <state x="317" y="211" key="com.intellij.ide.util.TipDialog/0.23.1280.712@0.23.1280.712" timestamp="1597979008246" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/video2ascii$Unnamed.coverage" NAME="Unnamed Coverage Results" MODIFIED="1598106486409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/video2ascii$convertor.coverage" NAME="convertor Coverage Results" MODIFIED="1598422674068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
